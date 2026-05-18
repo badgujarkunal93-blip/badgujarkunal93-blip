@@ -1,0 +1,126 @@
+<svg width="100%" viewBox="0 0 680 220" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>KUNAL - Holographic Cyberpunk Banner</title>
+  <desc>Animated neon holographic banner displaying the name KUNAL in cyberpunk JARVIS style</desc>
+
+  <defs>
+    <filter id="glow-cyan" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-strong" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#010810"/>
+      <stop offset="50%" style="stop-color:#020d1a"/>
+      <stop offset="100%" style="stop-color:#010810"/>
+    </linearGradient>
+    <linearGradient id="scan-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00D4FF;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#00D4FF;stop-opacity:0.08"/>
+      <stop offset="100%" style="stop-color:#00D4FF;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="letter-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#7efeff"/>
+      <stop offset="40%" style="stop-color:#00D4FF"/>
+      <stop offset="100%" style="stop-color:#0088bb"/>
+    </linearGradient>
+    <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D4FF;stop-opacity:0"/>
+      <stop offset="20%" style="stop-color:#00D4FF;stop-opacity:1"/>
+      <stop offset="80%" style="stop-color:#00D4FF;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#00D4FF;stop-opacity:0"/>
+    </linearGradient>
+    <clipPath id="banner-clip">
+      <rect width="680" height="220" rx="8"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#banner-clip)">
+    <!-- Background -->
+    <rect width="680" height="220" fill="url(#bg-grad)"/>
+
+    <!-- Grid lines horizontal -->
+    <g stroke="#00D4FF" stroke-opacity="0.04" stroke-width="0.5">
+      <line x1="0" y1="40" x2="680" y2="40"/>
+      <line x1="0" y1="80" x2="680" y2="80"/>
+      <line x1="0" y1="120" x2="680" y2="120"/>
+      <line x1="0" y1="160" x2="680" y2="160"/>
+      <line x1="0" y1="200" x2="680" y2="200"/>
+    </g>
+    <!-- Grid lines vertical -->
+    <g stroke="#00D4FF" stroke-opacity="0.03" stroke-width="0.5">
+      <line x1="68" y1="0" x2="68" y2="220"/>
+      <line x1="136" y1="0" x2="136" y2="220"/>
+      <line x1="204" y1="0" x2="204" y2="220"/>
+      <line x1="272" y1="0" x2="272" y2="220"/>
+      <line x1="340" y1="0" x2="340" y2="220"/>
+      <line x1="408" y1="0" x2="408" y2="220"/>
+      <line x1="476" y1="0" x2="476" y2="220"/>
+      <line x1="544" y1="0" x2="544" y2="220"/>
+      <line x1="612" y1="0" x2="612" y2="220"/>
+    </g>
+
+    <!-- Corner accents -->
+    <g stroke="#00D4FF" stroke-width="1.5" fill="none" stroke-opacity="0.7">
+      <path d="M20,20 L20,8 L8,8"/>
+      <path d="M660,20 L660,8 L672,8"/>
+      <path d="M20,200 L20,212 L8,212"/>
+      <path d="M660,200 L660,212 L672,212"/>
+    </g>
+
+    <!-- Scanning line animation -->
+    <rect x="0" y="0" width="680" height="60" fill="url(#scan-grad)" opacity="0.6">
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,160;0,0" dur="3s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Horizontal accent lines -->
+    <line x1="40" y1="28" x2="640" y2="28" stroke="url(#line-grad)" stroke-width="0.5" opacity="0.5"/>
+    <line x1="40" y1="192" x2="640" y2="192" stroke="url(#line-grad)" stroke-width="0.5" opacity="0.5"/>
+
+    <!-- Glow behind letters -->
+    <text x="340" y="148" text-anchor="middle" font-family="'Courier New', monospace" font-size="108" font-weight="900" fill="#00D4FF" opacity="0.06" filter="url(#glow-strong)" letter-spacing="18">KUNAL</text>
+
+    <!-- Main letters - shadow layer -->
+    <text x="340" y="148" text-anchor="middle" font-family="'Courier New', monospace" font-size="108" font-weight="900" fill="#003d55" letter-spacing="18">KUNAL</text>
+
+    <!-- Main letters - glow layer -->
+    <text x="340" y="148" text-anchor="middle" font-family="'Courier New', monospace" font-size="108" font-weight="900" fill="#00aad4" opacity="0.4" filter="url(#glow-cyan)" letter-spacing="18">KUNAL</text>
+
+    <!-- Main letters - primary -->
+    <text x="340" y="148" text-anchor="middle" font-family="'Courier New', monospace" font-size="108" font-weight="900" fill="url(#letter-grad)" filter="url(#glow-soft)" letter-spacing="18">KUNAL</text>
+
+    <!-- Flicker animation overlay -->
+    <text x="340" y="148" text-anchor="middle" font-family="'Courier New', monospace" font-size="108" font-weight="900" fill="#7efeff" letter-spacing="18" opacity="0">
+      KUNAL
+      <animate attributeName="opacity" values="0;0;0.15;0;0;0;0.08;0;0" dur="4s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- Side decorations -->
+    <g fill="#00D4FF" opacity="0.5">
+      <rect x="44" y="107" width="3" height="3"/>
+      <rect x="52" y="107" width="3" height="3"/>
+      <rect x="60" y="107" width="3" height="3"/>
+      <rect x="617" y="107" width="3" height="3"/>
+      <rect x="625" y="107" width="3" height="3"/>
+      <rect x="633" y="107" width="3" height="3"/>
+    </g>
+
+    <!-- Bottom status bar -->
+    <text x="52" y="184" font-family="'Courier New', monospace" font-size="9" fill="#00D4FF" opacity="0.5" letter-spacing="2">SYS.ONLINE</text>
+    <text x="628" y="184" text-anchor="end" font-family="'Courier New', monospace" font-size="9" fill="#00D4FF" opacity="0.5" letter-spacing="2">MIT.AOE</text>
+
+    <!-- Blinking cursor dot -->
+    <circle cx="340" cy="178" r="2" fill="#00D4FF" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;0;0.8" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Top label -->
+    <text x="340" y="46" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#00D4FF" opacity="0.45" letter-spacing="6">// HOLOGRAPHIC ID //</text>
+  </g>
+</svg>
