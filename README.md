@@ -9,7 +9,7 @@
 ### hey, I'm **Kunal Badgujar** 👾
 *CS + AIML @ MIT Academy of Engineering, Pune*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Building+AI-powered+web+apps+%F0%9F%A4%96;Tech+Passionate+%F0%9F%8F%86;React+%2B+Firebase+%2B+Gemini+API;Obsessed+with+dark+UIs+%F0%9F%8C%91)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Building+AI-powered+web+apps+%F0%9F%A4%96;Tech+Passionate+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%8F%97%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%93%96)](https://github.com/badgujarkunal93-blip)
 
 </div>
 
@@ -104,6 +104,20 @@ DS coursework · Programs & implementations · Jupyter notebooks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📡 &nbsp;[Ultrasonic-Radar-Detection-](https://github.com/badgujarkunal93-blip/Ultrasonic-Radar-Detection-)**
+
+Ultrasonic radar detection system
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
