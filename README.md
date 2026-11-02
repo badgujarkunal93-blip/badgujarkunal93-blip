@@ -12,6 +12,17 @@
 
   <p><strong>Building useful products at the intersection of AI, software, and thoughtful design.</strong></p>
 
+  <p><strong>✦ FEATURED WORK</strong></p>
+  <p>
+    <a href="https://github.com/badgujarkunal93-blip/Optima-AI">Optima AI</a> ·
+    <a href="https://github.com/badgujarkunal93-blip/StudyMate">StudyMate</a> ·
+    <a href="https://github.com/badgujarkarkunal93-blip/NetSage-AI">NetSage AI</a> ·
+    <a href="https://github.com/badgujarkunal93-blip/GlucoSaathi">GlucoSaathi</a> ·
+    <a href="https://github.com/badgujark93-blip/Locentra">Locentra</a> ·
+    <a href="https://github.com/badgujark93-blip/Saras-AI">Saras AI</a>
+  </p>
+
+
   <p>
     <a href="https://github.com/badgujarkunal93-blip?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=00F2FE" alt="Explore projects" /></a>
     <a href="mailto:badgujarkunal93@gmail.com"><img src="https://img.shields.io/badge/LETS_CONNECT-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Contact me by email" /></a>
