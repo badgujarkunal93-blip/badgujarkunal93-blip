@@ -294,6 +294,89 @@ A spatial research interface for exploring indoor scenarios, anchor placement, 2
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/badgujarkunal93-blip/StudyMate">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,100:7C3AED&height=88&section=header&text=STUDYMATE&fontSize=27&fontColor=F5F3FF&fontAlignY=50" width="100%" alt="StudyMate — AI-powered study partner" />
+</a>
+
+<p><img src="https://img.shields.io/badge/AI_LEARNING-7C3AED?style=flat-square" alt="AI learning" /> <img src="https://img.shields.io/badge/ACTIVE_RECALL-7C3AED?style=flat-square" alt="Active recall" /></p>
+
+### 📚 Turn Notes Into Understanding
+
+An AI study partner that transforms learning material into structured study guides and quizzes, scores answers deterministically, visualizes topic performance, and recommends targeted remediation.
+
+<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/Gemma-4285F4?style=flat-square" alt="Gemma" />
+
+<p><a href="https://github.com/badgujarkunal93-blip/StudyMate"><img src="https://img.shields.io/badge/SOURCE_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="StudyMate source code" /></a></p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/badgujarkunal93-blip/NetSage-AI">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:134E4A,100:0F766E&height=88&section=header&text=NETSAGE%20AI&fontSize=27&fontColor=CCFBF1&fontAlignY=50" width="100%" alt="NetSage AI — network troubleshooting" />
+</a>
+
+<p><img src="https://img.shields.io/badge/NETWORK_AI-0F766E?style=flat-square" alt="Network AI" /> <img src="https://img.shields.io/badge/EXPLAINABLE_DIAGNOSIS-0F766E?style=flat-square" alt="Explainable diagnosis" /></p>
+
+### 🛜 Make Network Issues Easier to Understand
+
+A Cisco IOS fault-diagnosis platform combining deterministic configuration parsing with multi-provider AI explanations, auditable human review, and a Streamlit dashboard for troubleshooting workflows.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square" alt="Gemini" />
+<img src="https://img.shields.io/badge/Claude-D97706?style=flat-square" alt="Claude" />
+
+<p><a href="https://github.com/badgujarkunal93-blip/NetSage-AI"><img src="https://img.shields.io/badge/SOURCE_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="NetSage AI source code" /></a></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/badgujarkunal93-blip/GlucoSaathi">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F1D1D,100:BE123C&height=88&section=header&text=GLUCOSAATHI&fontSize=27&fontColor=FFE4E6&fontAlignY=50" width="100%" alt="GlucoSaathi — explainable diabetes support prototype" />
+</a>
+
+<p><img src="https://img.shields.io/badge/HEALTH_AI-BE123C?style=flat-square" alt="Health AI" /> <img src="https://img.shields.io/badge/EXPLAINABLE_SUPPORT-BE123C?style=flat-square" alt="Explainable support" /></p>
+
+### 🍽️ Understand Meals With Context
+
+An AI-assisted Indian meal understanding and explainable Type 1 diabetes decision-support prototype, combining food recognition workflows with Indian food-composition data. Built as an educational prototype, not a substitute for clinical advice.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/IFCT_2017-64748B?style=flat-square" alt="IFCT 2017" />
+
+<p><a href="https://github.com/badgujarkunal93-blip/GlucoSaathi"><img src="https://img.shields.io/badge/SOURCE_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GlucoSaathi source code" /></a></p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/badgujarkunal93-blip/Margdarshak-Khoj">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:78350F,100:CA8A04&height=88&section=header&text=MARGDARSHAK&fontSize=27&fontColor=FEF3C7&fontAlignY=50" width="100%" alt="Margdarshak — MHT-CET college explorer" />
+</a>
+
+<p><img src="https://img.shields.io/badge/EDTECH-CA8A04?style=flat-square" alt="Education technology" /> <img src="https://img.shields.io/badge/COUNSELLING_TOOLS-CA8A04?style=flat-square" alt="Counselling tools" /></p>
+
+### 🎓 Navigate College Choices With Clarity
+
+A student-focused MHT-CET counselling and college-exploration platform for discovering colleges, reviewing cutoff information, and organizing shortlists to support informed CAP planning.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+
+<p><a href="https://github.com/badgujarkunal93-blip/Margdarshak-Khoj"><img src="https://img.shields.io/badge/SOURCE_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Margdarshak source code" /></a></p>
+
+</td>
+</tr>
 </table>
 
 <div align="center">
