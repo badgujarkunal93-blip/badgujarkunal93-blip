@@ -16,10 +16,10 @@
   <p>
     <a href="https://github.com/badgujarkunal93-blip/Optima-AI">Optima AI</a> ·
     <a href="https://github.com/badgujarkunal93-blip/StudyMate">StudyMate</a> ·
-    <a href="https://github.com/badgujarkarkunal93-blip/NetSage-AI">NetSage AI</a> ·
+    <a href="https://github.com/badgujarkunal93-blip/NetSage-AI">NetSage AI</a> ·
     <a href="https://github.com/badgujarkunal93-blip/GlucoSaathi">GlucoSaathi</a> ·
-    <a href="https://github.com/badgujark93-blip/Locentra">Locentra</a> ·
-    <a href="https://github.com/badgujark93-blip/Saras-AI">Saras AI</a>
+    <a href="https://github.com/badgujarkunal93-blip/Locentra">Locentra</a> ·
+    <a href="https://github.com/badgujarkunal93-blip/Saras-AI">Saras AI</a>
   </p>
 
 
