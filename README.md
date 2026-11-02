@@ -14,7 +14,7 @@
 
   <p><strong>✦ FEATURED WORK</strong></p>
   <p>
-    <a href="https://github.com/badgujarkunal93-blip/Optima-AI">Optima AI</a> ·
+    <a href="https://github.com/badgujarkunal93-blip/SML-Code-Optimiser">Optima AI</a> ·
     <a href="https://github.com/badgujarkunal93-blip/StudyMate">StudyMate</a> ·
     <a href="https://github.com/badgujarkunal93-blip/NetSage-AI">NetSage AI</a> ·
     <a href="https://github.com/badgujarkunal93-blip/GlucoSaathi">GlucoSaathi</a> ·
